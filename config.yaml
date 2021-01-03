@@ -3,13 +3,11 @@ subject: 'cs'
 
 # 検索キーワード
 keywords:
-        symbolic execution: 3 
-        fuzzing: 3 
-        root causes: 2 
-        SAT solver: 2 
-        SMT solver: 2 
-        AFL: 1 
-        penetration testing: 1 
-        Vulnerability Detection: 1 
-        Software Security: 1 
+        symbolic execution: 3
+        fuzzing: 3
+        root causes: 2
+        SMT solver: 2
+        AFL: 1
+        vulnerability detection: 1
+        software security: 1
         embedded system: 1
