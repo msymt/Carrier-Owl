@@ -10,6 +10,7 @@ keywords:
         exploit generation: 1
         SMT solver: 2
         AFL: 1
+        exploit generation: 1
         vulnerability detection: 1
         software security: 1
         embedded system: 1
