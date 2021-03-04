@@ -5,7 +5,6 @@ subject: 'cat:cs.*'
 keywords:
         symbolic execution: 3
         fuzzing: 3
-        Fuzzing: 3
         root cause: 2
         root cause analysis: 2
         exploit generation: 1
